@@ -1,4 +1,4 @@
-# three-js-ics
+# three-js-practice
 
 #### Reference
 
