@@ -1,5 +1,6 @@
 # three-js-ics
 
-From
-Copyright 2019 ICS INC.
-All Rights Reserved.
+#### Reference
+
+- https://ics.media/tutorial-three/
+- https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
