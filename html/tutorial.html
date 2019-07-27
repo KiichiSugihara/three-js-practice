@@ -26,6 +26,7 @@
 
       var renderer = new THREE.WebGLRenderer()
       renderer.setSize(window.innerWidth, window.innerHeight)
+      // これで、DOMに追加してる。
       document.body.appendChild(renderer.domElement)
 
       var geometry = new THREE.BoxGeometry(1, 1, 1)
